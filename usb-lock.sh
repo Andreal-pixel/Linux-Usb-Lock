@@ -1,5 +1,5 @@
 #!/bin/bash
-session=$(loginctl|grep 'andreal'|awk '{print $1;}')
+session=$(loginctl|grep '<yourusernamehere>'|awk '{print $1;}')
 if [ ${1} == "lock" ]
 then
 loginctl lock-session ${session}
