@@ -11,3 +11,8 @@ ATTENTION: if you don't do as described here the tool willl not work
 - Save it and run install.sh (AS ROOT)
 - You did it. Check that there aren't any errors and you're good to go
 # How to uninstall?
+Just run uninstall.sh
+# Disclamers
+- I take no responsabilities whatsoever, any damage that this tool could cause it's your own fault
+- Remember that if you lose your usb you could be in so big troubles that you should reinstall your entire distro
+- I tried to make this as simple as possible for command line newbies, I couldn't make the process easier than this
