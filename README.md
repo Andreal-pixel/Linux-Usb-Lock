@@ -1,7 +1,7 @@
 # Linux Usb Lock
 An advanced and universal mesure of security. 
 # What it does?
-As the name implies, it's a script that automatically locks your pc if you don't have a specific usb key
+As the name implies, it's a script that automatically locks your pc if you don't have plugged in a specific usb key
 # How to install?
 ATTENTION: if you don't do as described here the tool willl not work
 - Go into your terminal and type lsusb
