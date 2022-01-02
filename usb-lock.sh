@@ -7,3 +7,4 @@ elif [ ${1} == "unlock" ]
 then
 loginctl unlock-session ${session}
 fi
+
