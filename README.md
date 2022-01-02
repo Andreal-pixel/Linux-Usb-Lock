@@ -18,4 +18,5 @@ Just run uninstall.sh (AS ROOT)
 - I tried to make this as simple as possible for command line newbies, I couldn't make the process easier than this
 - The idea it's not mine, I've just over-simplified it. Look [here](https://medium.com/@abhattacharyea/use-your-usb-as-security-key-in-linux-e19b179d4b5c) for the original
 - This will not run by any mean on windows, you normie. Search a tutorial on youtube for running a similar thing on Billy G. OS
+- Leave the usb pluged in even when it's  unlocked, or the computer it's gonna be locked immideatly
 
