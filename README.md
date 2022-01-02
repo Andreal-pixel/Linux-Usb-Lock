@@ -16,3 +16,5 @@ Just run uninstall.sh
 - I take no responsabilities whatsoever, any damage that this tool could cause it's your own fault
 - Remember that if you lose your usb you could be in so big troubles that you should reinstall your entire distro
 - I tried to make this as simple as possible for command line newbies, I couldn't make the process easier than this
+- The idea it's not mine, I've just over-simplified it. Look [here](https://medium.com/@abhattacharyea/use-your-usb-as-security-key-in-linux-e19b179d4b5c) for the original
+
