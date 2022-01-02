@@ -1,0 +1,2 @@
+ACTION=="add", SUBSYSTEMS=="usb", ATTR{idVendor}=="<vendor-id>", ATTR{idProduct}=="<device-id>", RUN+="/usr/local/bin/usb-lock.sh unlock"
+ACTION=="remove", SUBSYSTEMS=="usb", ENV{ID_VENDOR_ID}=="<vendor-id>", ENV{ID_MODEL_ID}=="<device-id>", RUN+="/usr/local/bin/usb-lock.sh lock"
