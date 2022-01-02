@@ -8,6 +8,6 @@ ATTENTION: if you don't do as described here the tool willl not work
 - It's gonna list a lot of stuff. You have to search for your usb. You can recognize it because it's named with her brand (e.g.: my usb is named Lexar Usb Flash Drive)
 - You gonna see an id on the same line of your usb, like s4sf-67nd. Copy it.
 - Go to 80-usb.rules (open it with a text editor) and change all <vendor-id> and <device-id> with the id that you've copied before
-- Save it and run install.sh
+- Save it and run install.sh (AS ROOT)
 - You did it. Check that there aren't any errors and you're good to go
 # How to uninstall?
